@@ -27,7 +27,7 @@
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udit-pradhan-429a2729b/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_impactt/)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_impactt/) -->
 [![Gmail](https://img.shields.io/badge/Email-uditpradhan.official@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uditpradhan.official@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/udit_pradhan_)
 
