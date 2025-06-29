@@ -70,7 +70,7 @@
 
 
 <p align="center">
-  <strong>🚀 ALWAYS CURIOUS, ALWAYS LEARNING.</strong>
+  <strong>🚀 ALWAYS CURIOUS, AND LEARNING.</strong>
 </p>
 
 
