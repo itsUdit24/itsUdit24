@@ -12,7 +12,7 @@
         <li>🧠 Passionate about transforming codes into full-fledged digital products using the <strong>New TECH stacks</strong>.</li>
         <li>🛠️ Currently diving deep into advanced <strong> Web 3.0</strong></li>
         <li>🎯 My goal is to turn innovative web ideas into real-world products that provide value.</li>
-        <li>💻 AI/ML Enthusiast </li>
+        <li>💻 AI/ML Enthusiast. </li>
       </ul>
     </td>
     <td align="center" width="40%">
