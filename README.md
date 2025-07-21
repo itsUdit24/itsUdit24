@@ -8,7 +8,7 @@
     <td width="60%">
       <h3>👋 Hi there, I'm <strong>Udit Pradhan</strong></h3>
       <ul>
-        <li>🚀 <strong> Web 2 and Web 3 Developer from INDIA</strong></li>
+        <li>🚀 <strong> Web 2 and Web 3 Developer from INDIA. </strong></li>
         <li>🧠 Passionate about transforming codes into full-fledged digital products using the <strong>New TECH stacks</strong>.</li>
         <li>🛠️ Currently diving deep into advanced <strong> Web 3.0</strong></li>
         <li>🎯 My goal is to turn innovative web ideas into real-world products that provide value.</li>
