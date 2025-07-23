@@ -13,6 +13,7 @@
         <li>🛠️ Currently diving deep into advanced <strong> Web 3.0</strong></li>
         <li>🎯 My goal is to turn innovative web ideas into real-world products that provide value.</li>
         <li>💻 AI/ML Enthusiast. </li>
+        <li>⭐ Currently working on Car Rent application ⌛. </li>
       </ul>
     </td>
     <td align="center" width="40%">
