@@ -14,7 +14,7 @@
         <li>🎯 My goal is to turn innovative web ideas into real-world products that provide value.</li>
         <li>💻 AI/ML Enthusiast. </li>
         <!-- <li>⭐ Currently working on Car Rent application ⌛.... update:  Too many bugs as of now.</li> -->
-        <li>⭐ Currently working on a React Native Application, using convex in the backend..... ⌛</li>
+        <li>⭐ Currently working on a React Native Application, using convex in the backend.. ⌛</li>
       </ul>
     </td>
     <td align="center" width="40%">
