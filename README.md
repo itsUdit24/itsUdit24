@@ -15,7 +15,7 @@
         <li>💻 AI/ML Enthusiast. </li>
         <!-- <li>⭐ Currently working on Car Rent application ⌛.... update:  Too many bugs as of now.</li> -->
         <li>⭐ Done with my first application and deployed it as well. </li>
-        <li>🧑🏻‍💻 Working on Expense Tracker app. ⌛ </li>
+        <li>🧑🏻‍💻 Working on Expense Tracker app.⌛ </li>
       </ul>
     </td>
     <td align="center" width="40%">
