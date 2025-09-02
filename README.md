@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td width="60%">
-      <h3>👋 Hi there, I'm <strong>Udit Pradhan</strong></h3>
+      <h3>👋 Hi there!, I'm <strong>Udit Pradhan</strong></h3>
       <ul>
         <li>🚀 <strong> Web 2 and Web 3 Developer from INDIA </strong></li>
         <li>🧠 Passionate about transforming codes into full-fledged digital products using the <strong>New TECH stacks</strong>.</li>
