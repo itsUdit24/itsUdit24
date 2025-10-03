@@ -73,7 +73,7 @@
 
 
 <p align="center">
-  <strong>🚀 ALWAYS CURIOUS, AND!  ALWAYS LEARNING 🤓</strong>
+  <strong>🚀 ALWAYS CURIOUS, AND ALWAYS LEARNING 🤓</strong>
 </p>
 
 
