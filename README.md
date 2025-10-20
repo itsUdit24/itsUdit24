@@ -14,7 +14,7 @@
         <li>🎯 My goal is to turn innovative web ideas into real-world products that provide value.</li>
         <li>💻 AI and ML Enthusiast. </li>
         <!-- <li>⭐ Currently working on Car Rent application ⌛.... update:  Too many bugs as of now.</li> -->
-        <li>⭐ Done with my two application and deployed it as well. </li>
+        <li>⭐ Done with my two applications and deployed it as well. </li>
         <li>🧑🏻‍💻 Work done on <strong>Expense Tracker App</strong>. 15+ users and 36+ transactions done so far ✅. </li>
       </ul>
     </td>
